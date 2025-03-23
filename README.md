@@ -3,7 +3,6 @@ README: Advanced Apache Parquet Data Analysis
 Apache Parquet is a columnar storage format optimaed for big data proccesing
 
 
-Si acum vreau sa mai vorbesc de cum putem sa aceleram procesarea datelor printr-un artificiuin aplicatie prin c ++ cred  ca ar trebui sa aceleram procesarea de date 
 
 
 
